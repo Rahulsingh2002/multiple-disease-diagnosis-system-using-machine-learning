@@ -1,4 +1,4 @@
-![Stock market](https://github.com/Rahulsingh2002/stock-analysis-using-LSTM/assets/119775555/8fdc4a15-a1e6-489f-8c1f-f50a488c16fb)<h1 align="center">💰 Stock Market Prediction using LSTM 💸</h1>
+<h1 align="center">💰 Stock Market Prediction using LSTM 💸</h1>
 
 <p align="center">
   <img src="![Stock market](https://github.com/Rahulsingh2002/stock-analysis-using-LSTM/assets/119775555/d68828cf-70ff-406d-902f-78071fbc8e23)
