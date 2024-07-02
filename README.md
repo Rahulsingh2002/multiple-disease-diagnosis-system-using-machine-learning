@@ -1,7 +1,8 @@
-<h1 align="center">💰 Stock Market Prediction using LSTM 💸</h1>
+![Stock market](https://github.com/Rahulsingh2002/stock-analysis-using-LSTM/assets/119775555/8fdc4a15-a1e6-489f-8c1f-f50a488c16fb)<h1 align="center">💰 Stock Market Prediction using LSTM 💸</h1>
 
 <p align="center">
-  <img src="Stock market.jpeg" alt="Stock Market Prediction" />
+  <img src="![Stock market](https://github.com/Rahulsingh2002/stock-analysis-using-LSTM/assets/119775555/d68828cf-70ff-406d-902f-78071fbc8e23)
+" alt="Stock Market Prediction" />
 </p>
 
 <p align="center">
@@ -31,7 +32,6 @@ To run the project locally, follow these steps:
 ## Results and Discussion 📊
 In this section, we present the results of our stock market prediction experiments. We discuss the model's performance, its strengths, limitations, and potential areas of improvement. We also provide visualizations of the predicted stock prices and compare them with the actual prices.
 
-<img width="1028" alt="Screenshot 2023-05-10 at 4 33 59 AM" src="https://github.com/034adarsh/Stock-Price-Prediction-Using-LSTM/assets/95336274/2590dc7b-29bb-45ae-b0a2-1bf869db0125">
 
 ## Contributing 🤝
 We welcome contributions to enhance the project and make it even more effective. If you have any suggestions, bug fixes, or new features to add, please submit a pull request. We appreciate your contributions!
