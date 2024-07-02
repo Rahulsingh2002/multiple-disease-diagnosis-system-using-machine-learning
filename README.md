@@ -1,8 +1,8 @@
 <h1 align="center">💰 Stock Market Prediction using LSTM 💸</h1>
 
 <p align="center">
-  <img src="![Stock market](https://github.com/Rahulsingh2002/stock-analysis-using-LSTM/assets/119775555/d68828cf-70ff-406d-902f-78071fbc8e23)
-" alt="Stock Market Prediction" />
+  <img src="![Uploading Stock market.jpeg…]()
+"Stock Market Prediction" />
 </p>
 
 <p align="center">
